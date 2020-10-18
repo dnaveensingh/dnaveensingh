@@ -1,4 +1,4 @@
-### Hola, I'm NaveenSingh 👋
+### Hola, I'm NaveenSingh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px">
 
 
 Here are some ideas to get you started:
