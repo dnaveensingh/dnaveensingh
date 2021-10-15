@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Community
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Open Source Projects
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
