@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dnaveensingh&include_all_commits=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=dnaveensingh&include_all_commits=true&theme=chartreuse-dark">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnaveensingh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnaveensingh&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
